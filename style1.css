@@ -1,0 +1,36 @@
+
+/*<!--////////////////////////////////////////////////////////////////////////-->*/
+/*<!--//                                                                    //-->*/
+/*<!--//                     Vishvajit Kher  - 101015270                    //-->*/
+/*<!--//                    vishvajit.kher@georgebrown.ca                   //-->*/
+/*<!--////////////////////////////////////////////////////////////////////////-->*/
+
+canvas {
+    width: 100%;
+    height: 40vh;
+    cursor: pointer;
+
+}
+
+body{
+    padding: 2%;
+    background: -o-linear-gradient(136deg, #e21931, #e21931);
+    background: -moz-linear-gradient(136deg, #e21931, #e21931);
+    background: -webkit-linear-gradient(136deg, #e21931, #e21931);
+    background: linear-gradient(136deg, #e21931, #e21931);
+    color: #fbb03f;
+    font-family: 'Anton', sans-serif;
+    overflow: hidden;
+}
+
+.hamper_font{
+    color: #fbb03f;
+    text-align: center;
+}
+
+#canvas_dance{
+    position: absolute;
+    width: 100%;
+    margin-top: -400px;
+}
+
